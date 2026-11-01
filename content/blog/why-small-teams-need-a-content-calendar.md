@@ -16,3 +16,7 @@ A content calendar fixes that. It's a simple plan of what you'll post, where and
 
 Your timetable is full of ideas: a new teacher, a workshop, a class that's always full.
 Put those dates in the calendar first, then fill the gaps.
+
+## Review it every Friday
+
+Ten minutes: what went out, what didn't, what's next week. That's all it takes to stay on track.
