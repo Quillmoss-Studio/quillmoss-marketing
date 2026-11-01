@@ -2,10 +2,10 @@
 
 ## Post 1 (launch day)
 
+From 12 November, your clients can book a class for up to 6 friends in one checkout.
+
 Group bookings is live in Quillmoss. Fill more spots in every class, without chasing names
 and payments by message.
-
-From 12 November, your clients can book a class for up to 6 friends in one checkout.
 
 Switch it on in Settings, Bookings.
 
