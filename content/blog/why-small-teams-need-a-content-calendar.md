@@ -1,7 +1,6 @@
 # Why small studios need a content calendar
 
-Most studio owners post when they remember to. There's always something more urgent: a class to
-cover, an email to answer, a heater that's broken again. Then a busy week comes, nothing goes out for a
+Most studio owners post when they remember to. Then a busy week comes, nothing goes out for a
 fortnight, and the next post is a rushed "we're still here!".
 
 A content calendar fixes that. It's a simple plan of what you'll post, where and when.
